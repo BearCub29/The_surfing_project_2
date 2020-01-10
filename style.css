@@ -1,0 +1,17 @@
+.jumbotron
+{
+  background-image: url("home.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.row
+{
+  padding: 20px ;
+}
+
+.card
+{
+  margin: auto;
+}
